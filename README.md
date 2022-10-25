@@ -1,5 +1,7 @@
 # Thessaloniki WordPress Meetup Block Theme
 
+### [ English version bellow ] ###
+
 Τι είναι ένα block theme και πώς φτιάχνεται; Τι είναι το Full Site Editing (FSE) και τα block patterns; Πώς μπορώ να φτιάξω τα δικά μου custom blocks; Στα πλαίσια του Thessaloniki WordPress Meetup, διοργανώνονται μια σειρά από πρακτικά workshops, όπου θα απαντήσουμε αυτά τα ερωτήματα, θα γράψουμε κώδικα, θα συνεργαστούμε ως ομάδα χρησιμοποιώντας το Git, το Slack και άλλα εργαλεία, με απώτερο σκοπό να δημιουργηθεί ένα ολοκληρωμένο block theme!
 
 Το block theme θα ζει και θα αναπτύσσεται σε αυτό το repository, το οποίο θα είναι ανοικτό για να συνεισφέρει όποιος το επιθυμεί.
@@ -76,3 +78,68 @@
 
 ### Κάθε πότε θα γίνονται αυτά τα workshops και τι διάρκεια θα έχουν;
 Στοχεύουμε να γίνεται ένα workshop την τελευταία εβδομάδα κάθε μήνα. Κάθε workshop θα διαρκεί περίπου 3 ώρες.
+
+
+# English version - auto translate for now #
+
+What is a block theme and how is it made? What is Full Site Editing (FSE) and block patterns? How can I make my own custom blocks? As part of the Thessaloniki WordPress Meetup, a series of practical workshops are organized, where we will answer these questions, write code, collaborate as a team using Git, Slack and other tools, with the ultimate goal of creating a complete block theme!
+
+The block theme will live and develop in this repository, which will be open for anyone to contribute.
+
+## Tools
+To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools.
+
+### Generally
+#### WordPress account
+To be able to publish themes and plugins to the WordPress directories, you will need to have a wordpress.org account. Also with a wordpress.org account, you will be able to contribute to WordPress, get help in the support forums, rate and comment on themes and plugins.
+
+To create an account on wordpress.org press [here](https://login.wordpress.org/register?locale=en).
+
+#### Slack
+slack is a communication platform. It provides instant discussion via text messages or online calls and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you have access to all discussions about WordPress, local WordPress Meetups and WordCamps and Other Topics.
+
+To sign up for Slack, follow this [guide](https://wpgreece.org/wordpress-greece-slack/).
+
+### Code development & management
+#### VS Code
+Visual Studio Code, is an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), which integrates various useful tools to facilitate code development and debugging (e.g. syntax highlighting, code autocompletion , debug tools, etc.) and is provided for free.
+
+To download VS Code click [here](https://code.visualstudio.com/Download)
+
+#### Git
+Git is a version control system. It allows us to know who, when and what changes made to a file, while facilitating the collaboration of many people working on the same files.
+
+To download Git click [here](https://git-scm.com/)
+
+#### Node JS & npm
+Node.js is a software development platform built on a Javascript environment.
+
+npm is a package manager for the JavaScript programming language. A package manager is a collection of tools that automates the process of installing, upgrading, and removing computer programs.
+
+To download Node JS click [here](https://nodejs.org/en/download/) (npm is included and will be installed with Node JS).
+
+### Local development environment
+A local development environment is basically the installation of a web server on your computer and the existence of an environment where you can easily install a WordPress and proceed with the development, execution and testing of code.
+
+Although there are many alternatives for creating a local development environment, we recommend using [Laragon](https://laragon.org/) or [Local](https://localwp.com/)
+
+## Plan workshops
+The plan for the workshops is as follows:
+
+**[27th Thessaloniki WordPress Meetup - 05 November 2022](https://www.meetup.com/wordpress_skg/events/289306513/)**
+- Brief presentation of the project.
+- What is a theme and what are the differences between a classic and a block theme.
+- Presentation and installation help of necessary tools.
+- Creation of the basic framework of the block theme.
+ 
+
+
+## Frequent questions
+### What will be the purpose of this theme?
+It is a general purpose theme, without any targeting to a specific type of users or specific functions. It will be created with the goal of exploring and practicing with the tools, technologies and practices needed to create a custom block-based theme. Also, once this theme is complete, it will be published in the WordPress theme directory.
+
+### How much will this theme cost? Who will receive the proceeds?
+The final theme will be published in the WordPress theme directory and distributed for free. There will be no financial benefit or revenue from the development and publication of this theme.
+
+### I have no knowledge related to the technologies and tools required. Can I participate in the workshops?
+Definitely yes! Some basic knowledge of HTML, PHP and JavaScript will definitely help, however no previous knowledge in any field is required. Furthermore, even if you do not feel comfortable participating in the first place, just attending the workshops we believe will provide enough knowledge and material for further
