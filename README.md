@@ -44,11 +44,13 @@
 ## Πλάνο workshops
 Το πλάνο για τα workshops είναι το ακόλουθο:
 
-**27o Thessaloniki WordPress Meetup - 05 Νοεμβρίου 2022**
+**[27o Thessaloniki WordPress Meetup - 05 Νοεμβρίου 2022](https://www.meetup.com/wordpress_skg/events/289306513/)**
 - Σύντομη παρουσίαση του project.
 - Τι είναι ένα theme και ποιες οι διαφορές μεταξύ ενός κλασσικού και ενός block theme.
 - Παρουσίαση και βοήθεια εγκατάστασης απαραίτητων εργαλείων.
 - Δημιουργία βασικού σκελετού του block theme.
+ 
+
 
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
