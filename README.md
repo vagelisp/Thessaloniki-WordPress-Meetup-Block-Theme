@@ -1,6 +1,6 @@
 # Thessaloniki WordPress Meetup Block Theme
 
-### [ English version bellow ] ###
+**[ English version [below](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme#english-version) ]**
 
 Τι είναι ένα block theme και πώς φτιάχνεται; Τι είναι το Full Site Editing (FSE) και τα block patterns; Πώς μπορώ να φτιάξω τα δικά μου custom blocks; Στα πλαίσια του Thessaloniki WordPress Meetup, διοργανώνονται μια σειρά από πρακτικά workshops, όπου θα απαντήσουμε αυτά τα ερωτήματα, θα γράψουμε κώδικα, θα συνεργαστούμε ως ομάδα χρησιμοποιώντας το Git, το Slack και άλλα εργαλεία, με απώτερο σκοπό να δημιουργηθεί ένα ολοκληρωμένο block theme!
 
@@ -80,7 +80,8 @@
 Στοχεύουμε να γίνεται ένα workshop την τελευταία εβδομάδα κάθε μήνα. Κάθε workshop θα διαρκεί περίπου 3 ώρες.
 
 
-# English version - auto translate for now #
+# English version
+_Disclaimer: The contents of this section is auto translated for now._
 
 What is a block theme and how is it made? What is Full Site Editing (FSE) and block patterns? How can I make my own custom blocks? As part of the Thessaloniki WordPress Meetup, a series of practical workshops are organized, where we will answer these questions, write code, collaborate as a team using Git, Slack and other tools, with the ultimate goal of creating a complete block theme!
 
@@ -132,7 +133,6 @@ The plan for the workshops is as follows:
 - Presentation and installation help of necessary tools.
 - Creation of the basic framework of the block theme.
  
-
 
 ## Frequent questions
 ### What will be the purpose of this theme?
