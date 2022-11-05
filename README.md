@@ -29,7 +29,9 @@
 #### Git
 Το Git είναι ένα σύστημα ελέγχου εκδόσεων. Μας επιτρέπει να γνωρίζουμε ποιος, πότε και τι άλλαγές έκανε σε κάποιο αρχείο, ενώ διευκολύνει την συνεργασία πολλών ατομών που επεξεργάζονται τα ίδια αρχεία.
 
-Για να κάνετε λήψη του Git πατήστε [εδώ](https://git-scm.com/)
+Για να κάνετε λήψη του Git πατήστε [εδώ](https://git-scm.com/).
+Μπορείτε να δείτε έναν σύντομο αλλά περιεκτικό οδηγό με εξήγηση βασικών ενοιών του Git αλλά και παραδείγματα χρήσης [εδώ](https://rogerdudler.github.io/git-guide/).
+[Εδώ](https://docs.github.com/en/get-started/quickstart/hello-world) θα βρείτε ένα βασικό παράδειγμα χρήσης του GitHub.
 
 #### Node JS & npm
 Το Node.js είναι μια πλατφόρμα ανάπτυξης λογισμικού χτισμένη σε περιβάλλον Javascript.
@@ -110,7 +112,9 @@ To download VS Code click [here](https://code.visualstudio.com/Download)
 #### Git
 Git is a version control system. It allows us to know who, when and what changes made to a file, while facilitating the collaboration of many people working on the same files.
 
-To download Git click [here](https://git-scm.com/)
+To download Git click [here](https://git-scm.com/).
+You can see a short but comprehensive guide with an explanation of basic Git concepts and usage examples [here](https://rogerdudler.github.io/git-guide/).
+[Here](https://docs.github.com/en/get-started/quickstart/hello-world) you will find a basic example of how to use GitHub.
 
 #### Node JS & npm
 Node.js is a software development platform built on a Javascript environment.
