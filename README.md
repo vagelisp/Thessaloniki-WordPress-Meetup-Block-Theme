@@ -140,7 +140,8 @@ The schedule for the workshops is as follows:
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
-It is going to be a general purpose theme, without targeting any specific type of users, or functions. It will be created with the goal to explore and practice with the tools, technologies and practices necessary to create a custom block-based theme. Also, once this theme will be complete, it will be published in the WordPress theme directory.
+It is going to be a general purpose theme, without targeting any specific type of users, or functions. It will be created with the goal to explore and actually use the tools, the technologies and thepractices that are necessary to create a custom block-based theme. Also, once this theme will be complete, it will be published in the WordPress theme directory.
+
 
 ### How much will this theme cost? Who will receive the proceeds?
 The final theme will be published in the WordPress theme directory, and will be distributed for free. There will be no financial benefits, or revenue from the development and publication of this theme.
