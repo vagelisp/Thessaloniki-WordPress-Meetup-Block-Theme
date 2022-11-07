@@ -85,65 +85,80 @@
 # English version
 _Disclaimer: The contents of this section is auto translated for now._
 
-What is a block theme and how is it made? What is Full Site Editing (FSE) and block patterns? How can I make my own custom blocks? As part of the Thessaloniki WordPress Meetup, a series of practical workshops are organized, where we will answer these questions, write code, collaborate as a team using Git, Slack and other tools, with the ultimate goal of creating a complete block theme!
+What is a block theme, and how is it made? What is Full Site Editing (FSE) and block patterns? How can I make my own custom blocks? As part of the Thessaloniki WordPress Meetup, a series of practical workshops are organized, where we will answer these questions, write code, collaborate as a team using Git, Slack, and other tools, with the ultimate goal of creating a complete block theme!
 
-The block theme will live and develop in this repository, which will be open for anyone to contribute.
+The block theme will live, and be developed in this repository, which will be open for anyone to contribute.
 
 ## Tools
 To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools.
 
-### Generally
+### General Tools
 #### WordPress account
 To be able to publish themes and plugins to the WordPress directories, you will need to have a wordpress.org account. Also with a wordpress.org account, you will be able to contribute to WordPress, get help in the support forums, rate and comment on themes and plugins.
 
-To create an account on wordpress.org press [here](https://login.wordpress.org/register?locale=en).
+To create an account on wordpress.org click [here](https://login.wordpress.org/register?locale=en).
 
 #### Slack
-slack is a communication platform. It provides instant discussion via text messages or online calls and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you have access to all discussions about WordPress, local WordPress Meetups and WordCamps and Other Topics.
+slack is a communication platform. It provides instant discussion via text messages or online calls, and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you will have access to all discussions about WordPress, local WordPress Meetups and WordCamps, and other topics.
 
-To sign up for Slack, follow this [guide](https://wpgreece.org/wordpress-greece-slack/).
+To sign up for Slack follow this [guide](https://wpgreece.org/wordpress-greece-slack/).
 
-### Code development & management
+### Code development & management tools
 #### VS Code
-Visual Studio Code, is an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), which integrates various useful tools to facilitate code development and debugging (e.g. syntax highlighting, code autocompletion , debug tools, etc.) and is provided for free.
+Visual Studio Code, is an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), which integrates various useful tools to facilitate code development, and debugging (e.g. syntax highlighting, code autocompletion , debug tools, etc.) and is provided for free.
 
 To download VS Code click [here](https://code.visualstudio.com/Download)
 
 #### Git
-Git is a version control system. It allows us to know who, when and what changes made to a file, while facilitating the collaboration of many people working on the same files.
+Git is a version control system. It allows us to know who, when, and what changes made to a file, while facilitating the collaboration of many people working on the same files.
 
 To download Git click [here](https://git-scm.com/).
-You can see a short but comprehensive guide with an explanation of basic Git concepts and usage examples [here](https://rogerdudler.github.io/git-guide/).
+You can see a short but comprehensive guide with an explanation of basic Git concepts, and usage examples [here](https://rogerdudler.github.io/git-guide/).
 [Here](https://docs.github.com/en/get-started/quickstart/hello-world) you will find a basic example of how to use GitHub.
 
 #### Node JS & npm
-Node.js is a software development platform built on a Javascript environment.
+Node.js is a software development platform built with Javascript.
 
-npm is a package manager for the JavaScript programming language. A package manager is a collection of tools that automates the process of installing, upgrading, and removing computer programs.
+npm is a package manager for the JavaScript programming language. A package manager is a collection of tools that automate the process of installing, upgrading, and removing computer programs.
 
 To download Node JS click [here](https://nodejs.org/en/download/) (npm is included and will be installed with Node JS).
 
 ### Local development environment
-A local development environment is basically the installation of a web server on your computer and the existence of an environment where you can easily install a WordPress and proceed with the development, execution and testing of code.
+A local development environment is basically the installation of a web server on your computer, which you can use to easily create WordPress instances, and proceed with the development, execution, and testing of code.
 
 Although there are many alternatives for creating a local development environment, we recommend using [Laragon](https://laragon.org/) or [Local](https://localwp.com/)
 
-## Plan workshops
-The plan for the workshops is as follows:
+## Workshops Schedule
+The schedule for the workshops is as follows:
 
 **[27th Thessaloniki WordPress Meetup - 05 November 2022](https://www.meetup.com/wordpress_skg/events/289306513/)**
 - Brief presentation of the project.
-- What is a theme and what are the differences between a classic and a block theme.
-- Presentation and installation help of necessary tools.
+- What is a theme, and what are the differences between a classic and a block theme.
+- Presentation, and assistance with installation of necessary tools.
 - Creation of the basic framework of the block theme.
  
 
-## Frequent questions
+## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
-It is a general purpose theme, without any targeting to a specific type of users or specific functions. It will be created with the goal of exploring and practicing with the tools, technologies and practices needed to create a custom block-based theme. Also, once this theme is complete, it will be published in the WordPress theme directory.
+It is going to be a general purpose theme, without targeting any specific type of users, or functions. It will be created with the goal to explore and practice with the tools, technologies and practices necessary to create a custom block-based theme. Also, once this theme will be complete, it will be published in the WordPress theme directory.
 
 ### How much will this theme cost? Who will receive the proceeds?
-The final theme will be published in the WordPress theme directory and distributed for free. There will be no financial benefit or revenue from the development and publication of this theme.
+The final theme will be published in the WordPress theme directory, and will be distributed for free. There will be no financial benefits, or revenue from the development and publication of this theme.
 
-### I have no knowledge related to the technologies and tools required. Can I participate in the workshops?
-Definitely yes! Some basic knowledge of HTML, PHP and JavaScript will definitely help, however no previous knowledge in any field is required. Furthermore, even if you do not feel comfortable participating in the first place, just attending the workshops we believe will provide enough knowledge and material for further
+### I have no knowledge related to the technologies, and tools required. Can I still participate in the workshops?
+Definitely yes! Some basic knowledge of HTML, PHP and JavaScript will definitely help, however no previous knowledge of any field is required. Furthermore even if you do not feel comfortable participating in the first place, we believe that just attending the workshops will provide enough knowledge and material for further exploration :)
+
+### Do I have to attend all workshops? 
+Your participation in all workshops is not mandatory, however we will be very glad if you would join us every time. 
+
+### If I miss one workshop, can I still continue with the next ones? 
+Absolutely. After each workshop, a debriefing documentation will be provided containing notes, useful links, and any material which would be necessary so that anyone could follow the progress of the project, and be able to participate and contribute at any given time. 
+
+### Do I have to bring my own laptop to the meetup?
+Definitely not. If you have your own laptop, however, it will be so much easier to follow along with the progress of the workshop, and we will be able to address possible questions on the spot. 
+
+### What will I gain if I participate to the project? 
+You will have the opportunity to acquire new knowledge, and practice on a real project. If you already have the necessary knowledge, then you will have the opportunity to share it with other people, and help in the development of the theme. 
+
+### How often will those workshops be held, and what will be the duration? 
+Our goal is for a workshop to take place at the last week of every month. Each workshop shall take approximately 3 hours. 
