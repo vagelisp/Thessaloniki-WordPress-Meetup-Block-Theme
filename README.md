@@ -99,7 +99,8 @@ To be able to publish themes and plugins to the WordPress directories, you will 
 To create an account on wordpress.org click [here](https://login.wordpress.org/register?locale=en).
 
 #### Slack
-slack is a communication platform. It provides instant discussion via text messages or online calls, and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you will have access to all discussions about WordPress, local WordPress Meetups and WordCamps, and other topics.
+Slack is a communication platform. It provides instant discussion via text messages or online calls, and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you will have access to all discussions about WordPress, local WordPress Meetups and WordCamps, and other topics.
+
 
 To sign up for Slack follow this [guide](https://wpgreece.org/wordpress-greece-slack/).
 
