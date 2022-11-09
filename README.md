@@ -83,7 +83,6 @@
 
 
 # English version
-_Disclaimer: The contents of this section is auto translated for now._
 
 What is a block theme, and how is it made? What is Full Site Editing (FSE) and block patterns? How can I make my own custom blocks? As part of the Thessaloniki WordPress Meetup, a series of practical workshops are organized, where we will answer these questions, write code, collaborate as a team using Git, Slack, and other tools, with the ultimate goal of creating a complete block theme!
 
