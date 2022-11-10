@@ -54,11 +54,13 @@
 - Παρουσίαση και βοήθεια εγκατάστασης απαραίτητων εργαλείων.
 - Δημιουργία βασικού σκελετού του block theme.
 
+Σύνοψη των όσων ειπώθηκαν μπορείτε να δείτε σε αυτό το [video](https://www.youtube.com/watch?v=30IpkTfhs6o), και [εδώ](https://www.youtube.com/watch?v=VDxbsxjqSgU) μπορείτε να δείτε μία συζήτηση σχετικά με την εγκατάσταση και την ρύθμιση των απαραίτητων εργαλείων.
+
 **[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022]()**
 - Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request).
 - Δημιουργία theme.json.
-- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg.
-- Δημιουργία Pull request στο repository του Meetup για να προσθέσουμε το template που φτιάξαμε.
+- Δημιουργία καινούριου template (κάθε συμμετέχοντας μπορεί να δημιουργήσει το δικό του) και προσθήκη περιεχομένου μέσω του block editor.
+- Δημιουργία Pull Request σε αυτό το repository για να προσθέσουμε τα templates που φτιάξαμε.
  
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
@@ -140,7 +142,14 @@ The schedule for the workshops is as follows:
 - What is a theme, and what are the differences between a classic and a block theme.
 - Presentation, and assistance with installation of necessary tools.
 - Creation of the basic framework of the block theme.
- 
+
+A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o), and [here](https://www.youtube.com/watch?v=VDxbsxjqSgU) you can watch a discussion about the installation and setup of necessary tools.
+
+**[28th Thessaloniki WordPress Online Meetup - 26 November 2022]()**
+- Git basic operations (fork, clone, new branch, commit, pull request).
+- Create theme.json.
+- Create a new template (each attendant gets to create their own) and add content using the Block Editor.
+- Create Pull Requests at this repository to include the templates that were created.
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
