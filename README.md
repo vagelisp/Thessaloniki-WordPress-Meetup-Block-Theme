@@ -55,10 +55,10 @@
 - Δημιουργία βασικού σκελετού του block theme.
 
 **[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022]()**
-- Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request)
-- Δημιουργία theme.json
-- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg
-- Δημιουργία Pull request στο repository του Meetup για να προσθέσουμε το template που φτιάξαμε
+- Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request).
+- Δημιουργία theme.json.
+- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg.
+- Δημιουργία Pull request στο repository του Meetup για να προσθέσουμε το template που φτιάξαμε.
  
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
