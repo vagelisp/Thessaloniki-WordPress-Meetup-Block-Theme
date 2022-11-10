@@ -48,6 +48,12 @@
 ## Πλάνο workshops
 Το πλάνο για τα workshops είναι το ακόλουθο:
 
+**28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022, ώρα 12:00**
+- Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request)
+- Δημιουργία theme.json
+- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg editor
+- PR(Pull request) του template μας και ενημερώνουμε το τοπικό μας installation
+
 **[27o Thessaloniki WordPress Meetup - 05 Νοεμβρίου 2022](https://www.meetup.com/wordpress_skg/events/289306513/)**
 - Σύντομη παρουσίαση του project.
 - Τι είναι ένα theme και ποιες οι διαφορές μεταξύ ενός κλασσικού και ενός block theme.
