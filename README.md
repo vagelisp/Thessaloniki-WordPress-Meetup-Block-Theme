@@ -48,20 +48,18 @@
 ## Πλάνο workshops
 Το πλάνο για τα workshops είναι το ακόλουθο:
 
-**28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022, ώρα 12:00**
-- Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request)
-- Δημιουργία theme.json
-- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg editor
-- PR(Pull request) του template μας και ενημερώνουμε το τοπικό μας installation
-
 **[27o Thessaloniki WordPress Meetup - 05 Νοεμβρίου 2022](https://www.meetup.com/wordpress_skg/events/289306513/)**
 - Σύντομη παρουσίαση του project.
 - Τι είναι ένα theme και ποιες οι διαφορές μεταξύ ενός κλασσικού και ενός block theme.
 - Παρουσίαση και βοήθεια εγκατάστασης απαραίτητων εργαλείων.
 - Δημιουργία βασικού σκελετού του block theme.
+
+**[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022]()**
+- Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request)
+- Δημιουργία theme.json
+- Δημιουργία καινούριου template (ο καθένας το δικό του) και προσθήκη περιεχομένου μέσω Gutenberg
+- Δημιουργία Pull request στο repository του Meetup για να προσθέσουμε το template που φτιάξαμε
  
-
-
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
 Πρόκειται για ένα theme γενικού σκοπού, χωρίς κάποια στόχευση σε συγκεκριμένο τύπο χρηστών ή συγκεκριμένες λειτουργίες. Θα δημιουργηθεί με στόχο την εξερεύνηση και την πρακτική εξάσκηση με τα εργαλεία, τις τεχνολογίες και τις πρακτικές που χρειάζονται για την δημιουργία ενός custom block-based theme. Επίσης, αφού ολοκληρωθεί αυτό το theme, θα δημοσιευθεί στο theme directory του WordPress.
