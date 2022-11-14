@@ -54,9 +54,7 @@
 - Παρουσίαση και βοήθεια εγκατάστασης απαραίτητων εργαλείων.
 - Δημιουργία βασικού σκελετού του block theme.
 
-Σύνοψη των όσων ειπώθηκαν μπορείτε να δείτε σε αυτό το [video](https://www.youtube.com/watch?v=30IpkTfhs6o), και [εδώ](https://www.youtube.com/watch?v=VDxbsxjqSgU) μπορείτε να δείτε μία συζήτηση σχετικά με την εγκατάσταση και την ρύθμιση των απαραίτητων εργαλείων.
-
-**[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022]()**
+**[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022](https://www.meetup.com/wordpress_skg/events/289665155/)**
 - Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request).
 - Δημιουργία theme.json.
 - Δημιουργία καινούριου template (κάθε συμμετέχοντας μπορεί να δημιουργήσει το δικό του) και προσθήκη περιεχομένου μέσω του block editor.
