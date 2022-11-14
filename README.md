@@ -143,7 +143,7 @@ The schedule for the workshops is as follows:
 
 A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o), and [here](https://www.youtube.com/watch?v=VDxbsxjqSgU) you can watch a discussion about the installation and setup of necessary tools.
 
-**[28th Thessaloniki WordPress Online Meetup - 26 November 2022]()**
+**[28th Thessaloniki WordPress Online Meetup - 26 November 2022](https://www.meetup.com/wordpress_skg/events/289665155/)**
 - Git basic operations (fork, clone, new branch, commit, pull request).
 - Create theme.json.
 - Create a new template (each attendant gets to create their own) and add content using the Block Editor.
