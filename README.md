@@ -7,45 +7,7 @@
 Το block theme θα ζει και θα αναπτύσσεται σε αυτό το repository, το οποίο θα είναι ανοικτό για να συνεισφέρει όποιος το επιθυμεί.
 
 ## Εργαλεία
-Για να συνεισφέρετε στην ανάπτυξη του theme αλλά και για να δημιουργήσετε τα δικά σας block themes, custom blocks, patterns κ.λπ. θα χρειαστείτε κάποια εργαλεία.
-
-### Γενικά
-#### Λογαριασμός WordPress
-Για να μπορέσετε να δημοσιεύσετε themes και plugins στους καταλόγους του WordPress, θα χρειαστεί να έχετε έναν λογαριασμό στο wordpress.org. Επίσης με έναν λογαριασμό wordpress.org, θα έχετε την δυνατότητα να συνεισφέρετε στο WordPress, να λαμβάνετε βοήθεια στα φόρουμ υποστήριξης, να αξιολογήσετε και να σχολιάζετε θέματα εμφάνισης και πρόσθετα.
-
-Για να δημιουργήσετε έναν λογαριασμό στο wordpress.org πατήστε [εδώ](https://login.wordpress.org/register?locale=el).
-
-#### Slack
-Το slack είναι μία πλατφόρμα επικοινωνίας. Παρέχει άμεση συζήτηση μέσω γραπτών μηνυμάτων ή online κλήσεων και πάρα πολλές επιπλέον δυνατότητες όπως διαμοιρασμό εικόνων, κώδικα κλπ. Με την εγγραφή σας στο Slack της Ελληνικής Κοινότητας WordPress, έχετε πρόσβαση σε όλες τις συζητήσεις σχετικά με το WordPress, τα τοπικά WordPress Meetups και WordCamps και άλλα θέματα.
-
-Για την εγγραφή σας στο Slack, ακολουθήστε αυτό τον [οδηγό](https://wpgreece.org/wordpress-greece-slack/).
-
-### Ανάπτυξη & διαχείριση κώδικα
-#### VS Code
-Το Visual Studio Code, είναι ένα [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), το οποίο ενσωματώνει διάφορα χρήσιμα εργαλεία για να διευκολύνει την ανάπτυξη και αποσφαλμάτωση κώδικα (π.χ. syntax highlighting, code autocompletion, εργαλεία debug κ.λπ.) και παρέχεται δωρέαν.
-
-Για να κάνετε λήψη του VS Code πατήστε [εδώ](https://code.visualstudio.com/Download)
-
-#### Git
-Το Git είναι ένα σύστημα ελέγχου εκδόσεων. Μας επιτρέπει να γνωρίζουμε ποιος, πότε και τι άλλαγές έκανε σε κάποιο αρχείο, ενώ διευκολύνει την συνεργασία πολλών ατομών που επεξεργάζονται τα ίδια αρχεία.
-
-Για να κάνετε λήψη του Git πατήστε [εδώ](https://git-scm.com/).
-Μπορείτε να δείτε έναν σύντομο αλλά περιεκτικό οδηγό με εξήγηση βασικών ενοιών του Git αλλά και παραδείγματα χρήσης [εδώ](https://rogerdudler.github.io/git-guide/).
-[Εδώ](https://docs.github.com/en/get-started/quickstart/hello-world) θα βρείτε ένα βασικό παράδειγμα χρήσης του GitHub.
-
-#### Node JS & npm
-Το Node.js είναι μια πλατφόρμα ανάπτυξης λογισμικού χτισμένη σε περιβάλλον Javascript.
-
-Το npm είναι ένας διαχειριστής πακέτων για τη γλώσσα προγραμματισμού JavaScript. Ένας διαχειριστής πακέτων είναι μια συλλογή εργαλείων που αυτοματοποιεί τη διαδικασία εγκατάστασης, αναβάθμισης και αφαίρεσης προγραμμάτων υπολογιστή.
-
-Για να κάνετε λήψη του Node JS πατήστε [εδώ](https://nodejs.org/en/download/) (το npm συμπεριλαμβάνεται και θα εγκατασταθεί μαζί με το Node JS).
-
-### Τοπικό περιβάλλον ανάπτυξης
-Ως τοπικό περιβάλλον ανάπτυξης χαρακτηρίζεται ουσιαστικά η εγκατάσταση ενός web server στον υπολογιστή σας και η ύπαρξη ενός περιβάλλοντος όπου μπορείτε να κάνετε εύκολα την εγκατάσταση ενός WordPress και να προχωρήσετε με την ανάπτυξη, εκτέλεση και δοκιμή κώδικα.
-
-Εάν και υπάρχουν πάρα πολλές εναλλακτικές για την δημιουργία ενός τοπικού περιβάλλοντος ανάπτυξης, προτείνουμε την χρήση του [Laragon](https://laragon.org/) ή του [Local](https://localwp.com/).
-
-⚠ Σε περιβάλλον Windows, το όνομα χρήστη θα πρέπει να είναι με λατινικούς χαρακτήρες, διαφορετικά η εγκατάσταση του Local, δεν μπορεί να ολοκληρωθεί.
+Για να συνεισφέρετε στην ανάπτυξη του theme αλλά και για να δημιουργήσετε τα δικά σας block themes, custom blocks, patterns κ.λπ. θα χρειαστείτε κάποια εργαλεία. Μπορείτε να βείτε περισσότερες πληροφορίες για τα εργαλεία που θα χρησιμοποιηθούν [εδώ](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
 
 ## Πλάνο workshops
 Το πλάνο για τα workshops είναι το ακόλουθο:
@@ -64,6 +26,8 @@
 - Δημιουργία καινούριου template (κάθε συμμετέχοντας μπορεί να δημιουργήσει το δικό του) και προσθήκη περιεχομένου μέσω του block editor.
 - Δημιουργία Pull Request σε αυτό το repository για να προσθέσουμε τα templates που φτιάξαμε.
  
+Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies). Περισσότερες πληροφορίες για το Git και το αρχείο theme.json θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
+
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
 Πρόκειται για ένα theme γενικού σκοπού, χωρίς κάποια στόχευση σε συγκεκριμένο τύπο χρηστών ή συγκεκριμένες λειτουργίες. Θα δημιουργηθεί με στόχο την εξερεύνηση και την πρακτική εξάσκηση με τα εργαλεία, τις τεχνολογίες και τις πρακτικές που χρειάζονται για την δημιουργία ενός custom block-based theme. Επίσης, αφού ολοκληρωθεί αυτό το theme, θα δημοσιευθεί στο theme directory του WordPress.
@@ -97,46 +61,7 @@ What is a block theme, and how is it made? What is Full Site Editing (FSE) and b
 The block theme will live, and be developed in this repository, which will be open for anyone to contribute.
 
 ## Tools
-To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools.
-
-### General Tools
-#### WordPress account
-To be able to publish themes and plugins to the WordPress directories, you will need to have a wordpress.org account. Also with a wordpress.org account, you will be able to contribute to WordPress, get help in the support forums, rate and comment on themes and plugins.
-
-To create an account on wordpress.org click [here](https://login.wordpress.org/register?locale=en).
-
-#### Slack
-Slack is a communication platform. It provides instant discussion via text messages or online calls, and many additional features such as sharing images, code, etc. By signing up to the Hellenic WordPress Community Slack, you will have access to all discussions about WordPress, local WordPress Meetups and WordCamps, and other topics.
-
-
-To sign up for Slack follow this [guide](https://wpgreece.org/wordpress-greece-slack/).
-
-### Code development & management tools
-#### VS Code
-Visual Studio Code, is an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), which integrates various useful tools to facilitate code development, and debugging (e.g. syntax highlighting, code autocompletion , debug tools, etc.) and is provided for free.
-
-To download VS Code click [here](https://code.visualstudio.com/Download)
-
-#### Git
-Git is a version control system. It allows us to know who, when, and what changes made to a file, while facilitating the collaboration of many people working on the same files.
-
-To download Git click [here](https://git-scm.com/).
-You can see a short but comprehensive guide with an explanation of basic Git concepts, and usage examples [here](https://rogerdudler.github.io/git-guide/).
-[Here](https://docs.github.com/en/get-started/quickstart/hello-world) you will find a basic example of how to use GitHub.
-
-#### Node JS & npm
-Node.js is a software development platform built with Javascript.
-
-npm is a package manager for the JavaScript programming language. A package manager is a collection of tools that automate the process of installing, upgrading, and removing computer programs.
-
-To download Node JS click [here](https://nodejs.org/en/download/) (npm is included and will be installed with Node JS).
-
-### Local development environment
-A local development environment is basically the installation of a web server on your computer, which you can use to easily create WordPress instances, and proceed with the development, execution, and testing of code.
-
-Although there are many alternatives for creating a local development environment, we recommend using [Laragon](https://laragon.org/) or [Local](https://localwp.com/).
-
-⚠ On Windows, the user name need to be set in latin characters. If not, the installation of Local will fail.
+To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools. You can find more information about the tools that are going to be used [here](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
 
 ## Workshops Schedule
 The schedule for the workshops is as follows:
@@ -154,6 +79,8 @@ A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o
 - Create theme.json.
 - Create a new template (each attendant gets to create their own) and add content using the Block Editor.
 - Create Pull Requests at this repository to include the templates that were created.
+
+The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies). More information about Git and the theme.json file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
