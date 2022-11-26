@@ -1,5 +1,8 @@
 {
 	"version": 2,
+	"patterns": [
+		"featured-section-with-round-corners"
+	],
 	"settings": {
 		"layout": {
 			"contentSize": "750px",
