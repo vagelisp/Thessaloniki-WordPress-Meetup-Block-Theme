@@ -26,7 +26,7 @@
 - Δημιουργία καινούριου template (κάθε συμμετέχοντας μπορεί να δημιουργήσει το δικό του) και προσθήκη περιεχομένου μέσω του block editor.
 - Δημιουργία Pull Request σε αυτό το repository για να προσθέσουμε τα templates που φτιάξαμε.
  
-Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies). Περισσότερες πληροφορίες για το Git και το αρχείο theme.json θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=9-6pUXtTMVY). Περισσότερες πληροφορίες για το Git και το αρχείο theme.json θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
 
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
@@ -80,7 +80,7 @@ A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o
 - Create a new template (each attendant gets to create their own) and add content using the Block Editor.
 - Create Pull Requests at this repository to include the templates that were created.
 
-The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies). More information about Git and the theme.json file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) and the video is available [here](https://www.youtube.com/watch?v=9-6pUXtTMVY). More information about Git and the theme.json file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
