@@ -74,5 +74,10 @@
 				}
 			]
 		}
+	},
+	"styles": {
+		"typography": {
+			"fontFamily": "Open Sans"
+		}
 	}
 }
