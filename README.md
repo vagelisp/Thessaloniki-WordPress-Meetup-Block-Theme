@@ -7,7 +7,7 @@
 Το block theme θα ζει και θα αναπτύσσεται σε αυτό το repository, το οποίο θα είναι ανοικτό για να συνεισφέρει όποιος το επιθυμεί.
 
 ## Εργαλεία
-Για να συνεισφέρετε στην ανάπτυξη του theme αλλά και για να δημιουργήσετε τα δικά σας block themes, custom blocks, patterns κ.λπ. θα χρειαστείτε κάποια εργαλεία. Μπορείτε να βείτε περισσότερες πληροφορίες για τα εργαλεία που θα χρησιμοποιηθούν [εδώ](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
+Για να συνεισφέρετε στην ανάπτυξη του theme αλλά και για να δημιουργήσετε τα δικά σας block themes, custom blocks, patterns κ.λπ. θα χρειαστείτε κάποια εργαλεία. Μπορείτε να βείτε περισσότερες πληροφορίες για τα εργαλεία που θα χρησιμοποιηθούν [εδώ](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/tools/).
 
 ## Πλάνο workshops
 Το πλάνο για τα workshops είναι το ακόλουθο:
@@ -67,7 +67,7 @@ What is a block theme, and how is it made? What is Full Site Editing (FSE) and b
 The block theme will live, and be developed in this repository, which will be open for anyone to contribute.
 
 ## Tools
-To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools. You can find more information about the tools that are going to be used [here](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/tools/).
+To contribute to the development of the theme but also to create your own block themes, custom blocks, patterns, etc. you will need some tools. You can find more information about the tools that are going to be used [here](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/tools/).
 
 ## Workshops Schedule
 The schedule for the workshops is as follows:
@@ -96,14 +96,14 @@ The video is available [here](https://www.youtube.com/watch?v=o0pMo39V3Qo). More
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
-It is going to be a general purpose theme, without targeting any specific type of users, or functions. It will be created with the goal to explore and actually use the tools, the technologies and thepractices that are necessary to create a custom block-based theme. Also, once this theme will be complete, it will be published in the WordPress theme directory.
+It is going to be a general purpose theme, without targeting any specific type of users, or functions. It will be created with the goal to explore and actually use the tools, the technologies and the practices that are necessary to create a custom block-based theme. Also, once this theme will be complete, it will be published in the WordPress theme directory.
 
 
 ### How much will this theme cost? Who will receive the proceeds?
 The final theme will be published in the WordPress theme directory, and will be distributed for free. There will be no financial benefits, or revenue from the development and publication of this theme.
 
 ### I have no knowledge related to the technologies, and tools required. Can I still participate in the workshops?
-Definitely yes! Some basic knowledge of HTML, PHP and JavaScript will definitely help, however no previous knowledge of any field is required. Furthermore even if you do not feel comfortable participating in the first place, we believe that just attending the workshops will provide enough knowledge and material for further exploration :)
+Definitely yes! Some basic knowledge of HTML, PHP and JavaScript will definitely help, however no previous knowledge of any field is required. Furthermore, even if you do not feel comfortable participating in the first place, we believe that just attending the workshops will provide enough knowledge and material for further exploration :)
 
 ### Do I have to attend all workshops? 
 Your participation in all workshops is not mandatory, however we will be very glad if you would join us every time. 
@@ -114,7 +114,7 @@ Absolutely. After each workshop, a debriefing documentation will be provided con
 ### Do I have to bring my own laptop to the meetup?
 Definitely not. If you have your own laptop, however, it will be so much easier to follow along with the progress of the workshop, and we will be able to address possible questions on the spot. 
 
-### What will I gain if I participate to the project? 
+### What will I gain if I participate in the project? 
 You will have the opportunity to acquire new knowledge, and practice on a real project. If you already have the necessary knowledge, then you will have the opportunity to share it with other people, and help in the development of the theme. 
 
 ### How often will those workshops be held, and what will be the duration? 
