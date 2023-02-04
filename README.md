@@ -22,11 +22,17 @@
 
 **[28ο Thessaloniki WordPress Online Meetup - 26 Νοεμβρίου 2022](https://www.meetup.com/wordpress_skg/events/289665155/)**
 - Βασικές λειτουργίες git (fork, clone, new branch, commit, pull request).
-- Δημιουργία theme.json.
+- Δημιουργία `theme.json`.
 - Δημιουργία καινούριου template (κάθε συμμετέχοντας μπορεί να δημιουργήσει το δικό του) και προσθήκη περιεχομένου μέσω του block editor.
 - Δημιουργία Pull Request σε αυτό το repository για να προσθέσουμε τα templates που φτιάξαμε.
  
-Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=9-6pUXtTMVY). Περισσότερες πληροφορίες για το Git και το αρχείο theme.json θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=9-6pUXtTMVY). Περισσότερες πληροφορίες για το Git και το αρχείο `theme.json` θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+
+**[30ο Thessaloniki WordPress Online Meetup - 4 Φεβρουαρίου 2023](https://www.meetup.com/wordpress_skg/events/291176080/)**
+- Εισαγωγή και χρήση γραμματοσειρών στον block editor με χρήση του `theme.json`.
+- Δημιουργία και χρήση block & post patterns.
+ 
+Το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=o0pMo39V3Qo). Περισσότερες πληροφορίες και σχετικό υλικό θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
 
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
@@ -76,11 +82,17 @@ A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o
 
 **[28th Thessaloniki WordPress Online Meetup - 26 November 2022](https://www.meetup.com/wordpress_skg/events/289665155/)**
 - Git basic operations (fork, clone, new branch, commit, pull request).
-- Create theme.json.
+- Create `theme.json`.
 - Create a new template (each attendant gets to create their own) and add content using the Block Editor.
 - Create Pull Requests at this repository to include the templates that were created.
 
-The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) and the video is available [here](https://www.youtube.com/watch?v=9-6pUXtTMVY). More information about Git and the theme.json file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) and the video is available [here](https://www.youtube.com/watch?v=9-6pUXtTMVY). More information about Git and the `theme.json` file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
+
+**[30th Thessaloniki WordPress Online Meetup - 4 Febrouary 2023](https://www.meetup.com/wordpress_skg/events/291176080/)**
+- Add and use fonts in the block editor using `theme.json`.
+- Create and use block & post patterns.
+
+The video is available [here](https://www.youtube.com/watch?v=o0pMo39V3Qo). More information and relevant resources can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/docs/).
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
