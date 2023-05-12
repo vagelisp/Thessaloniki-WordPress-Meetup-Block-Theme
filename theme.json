@@ -594,6 +594,26 @@
 				},
 				"css": ":last-of-type { padding: 0.5rem 1rem; background: var(--wp--preset--color--red-100); color: var(--wp--preset--color--red); }"
 			},
+			"core/image": {
+				"elements": {
+					"caption": {
+						"typography": {
+							"fontSize": "var(--wp--preset--font-size--xs)",
+							"fontStyle": "italic"
+						}
+					},
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--teal)"
+						}
+					}
+				}
+			},
+			"core/separator": {
+				"border": {
+					"color": "var(--wp--preset--color--grey-100)"
+				}
+			},
 			"core/button": {
 				"spacing": {
 					"padding": {
