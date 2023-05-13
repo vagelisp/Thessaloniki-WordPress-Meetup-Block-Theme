@@ -9,7 +9,31 @@
 			"contentSize": "750px",
 			"wideSize": "1200px"
 		},
+		"spacing": {
+			"padding": true,
+			"margin": true
+		},
 		"typography": {
+			"fontSizes": [
+				{
+					"name": "XSmall",
+					"slug": "xs",
+					"size": "0.75rem"
+				},
+				{
+					"name": "Small",
+					"slug": "sm",
+					"size": "0.875rem"
+				},
+				{
+					"name": "Large",
+					"slug": "lg",
+					"size": "1.125rem"
+				}
+			],
+			"fontWeight": true,
+			"lineHeight": true,
+			"fluid": true,
 			"fontFamilies": [
 				{
 					"fontFamily": "Open Sans",
@@ -73,11 +97,606 @@
 					]
 				}
 			]
+		},
+		"color": {
+			"palette": [
+				{
+					"slug": "white",
+					"name": "White",
+					"color": "#fff"
+				},
+				{
+					"slug": "black",
+					"name": "Black",
+					"color": "#000"
+				},
+				{
+					"slug": "blue",
+					"name": "Blue",
+					"color": "#45C1FF"
+				},
+				{
+					"slug": "indigo",
+					"name": "Indigo",
+					"color": "#818cf8"
+				},
+				{
+					"slug": "purple",
+					"name": "Purple",
+					"color": "#c084fc"
+				},
+				{
+					"slug": "pink",
+					"name": "Pink",
+					"color": "#f472b6"
+				},
+				{
+					"slug": "red",
+					"name": "Red",
+					"color": "#FF4564"
+				},
+				{
+					"slug": "orange",
+					"name": "Orange",
+					"color": "#E4572E"
+				},
+				{
+					"slug": "yellow",
+					"name": "Yellow",
+					"color": "#E9D758"
+				},
+				{
+					"slug": "teal",
+					"name": "Teal",
+					"color": "#297373"
+				},
+				{
+					"slug": "grey-100",
+					"name": "Grey 100",
+					"color": "#E6EAF1"
+				},
+				{
+					"slug": "grey-200",
+					"name": "Grey 200",
+					"color": "#DADFE9"
+				},
+				{
+					"slug": "grey-300",
+					"name": "Grey 300",
+					"color": "#C8CEDA"
+				},
+				{
+					"slug": "grey-400",
+					"name": "Grey 400",
+					"color": "#ACB4C4"
+				},
+				{
+					"slug": "grey-500",
+					"name": "Grey 500",
+					"color": "#838EA4"
+				},
+				{
+					"slug": "grey-600",
+					"name": "Grey 600",
+					"color": "#657084"
+				},
+				{
+					"slug": "grey-700",
+					"name": "Grey 700",
+					"color": "#374151"
+				},
+				{
+					"slug": "grey-800",
+					"name": "Grey 800",
+					"color": "#1f2937"
+				},
+				{
+					"slug": "grey-900",
+					"name": "Grey 900",
+					"color": "#0A2463"
+				},
+				{
+					"slug": "blue-100",
+					"name": "Blue 100",
+					"color": "#ceefff"
+				},
+				{
+					"slug": "blue-200",
+					"name": "Blue 200",
+					"color": "#9ddeff"
+				},
+				{
+					"slug": "blue-300",
+					"name": "Blue 300",
+					"color": "#70CFFF"
+				},
+				{
+					"slug": "blue-400",
+					"name": "Blue 400",
+					"color": "#45C1FF"
+				},
+				{
+					"slug": "blue-500",
+					"name": "Blue 500",
+					"color": "#0AADFF"
+				},
+				{
+					"slug": "blue-600",
+					"name": "Blue 600",
+					"color": "#088acc"
+				},
+				{
+					"slug": "blue-700",
+					"name": "Blue 700",
+					"color": "#066899"
+				},
+				{
+					"slug": "blue-800",
+					"name": "Blue 800",
+					"color": "#044566"
+				},
+				{
+					"slug": "blue-900",
+					"name": "Blue 900",
+					"color": "#ceefff"
+				},
+				{
+					"slug": "indigo-100",
+					"name": "Indigo 100",
+					"color": "#e0e7ff"
+				},
+				{
+					"slug": "indigo-200",
+					"name": "Indigo 200",
+					"color": "#c7d2fe"
+				},
+				{
+					"slug": "indigo-300",
+					"name": "Indigo 300",
+					"color": "#a5b4fc"
+				},
+				{
+					"slug": "indigo-400",
+					"name": "Indigo 400",
+					"color": "#818cf8"
+				},
+				{
+					"slug": "indigo-500",
+					"name": "Indigo 500",
+					"color": "#6366f1"
+				},
+				{
+					"slug": "indigo-600",
+					"name": "Indigo 600",
+					"color": "#4f46e5"
+				},
+				{
+					"slug": "indigo-700",
+					"name": "Indigo 700",
+					"color": "#4338ca"
+				},
+				{
+					"slug": "indigo-800",
+					"name": "Indigo 800",
+					"color": "#3730a3"
+				},
+				{
+					"slug": "indigo-900",
+					"name": "Indigo 900",
+					"color": "#312e81"
+				},
+				{
+					"slug": "purple-100",
+					"name": "Purple 100",
+					"color": "#f3e8ff"
+				},
+				{
+					"slug": "purple-200",
+					"name": "Purple 200",
+					"color": "#e9d5ff"
+				},
+				{
+					"slug": "purple-300",
+					"name": "Purple 300",
+					"color": "#d8b4fe"
+				},
+				{
+					"slug": "purple-400",
+					"name": "Purple 400",
+					"color": "#c084fc"
+				},
+				{
+					"slug": "purple-500",
+					"name": "Purple 500",
+					"color": "#a855f7"
+				},
+				{
+					"slug": "purple-600",
+					"name": "Purple 600",
+					"color": "#9333ea"
+				},
+				{
+					"slug": "purple-700",
+					"name": "Purple 700",
+					"color": "#7e22ce"
+				},
+				{
+					"slug": "purple-800",
+					"name": "Purple 800",
+					"color": "#6b21a8"
+				},
+				{
+					"slug": "purple-900",
+					"name": "Purple 900",
+					"color": "#581c87"
+				},
+				{
+					"slug": "pink-100",
+					"name": "Pink 100",
+					"color": "#fce7f3"
+				},
+				{
+					"slug": "pink-200",
+					"name": "Pink 200",
+					"color": "#fbcfe8"
+				},
+				{
+					"slug": "pink-300",
+					"name": "Pink 300",
+					"color": "#f9a8d4"
+				},
+				{
+					"slug": "pink-400",
+					"name": "Pink 400",
+					"color": "#f472b6"
+				},
+				{
+					"slug": "pink-500",
+					"name": "Pink 500",
+					"color": "#ec4899"
+				},
+				{
+					"slug": "pink-600",
+					"name": "Pink 600",
+					"color": "#db2777"
+				},
+				{
+					"slug": "pink-700",
+					"name": "Pink 700",
+					"color": "#be185d"
+				},
+				{
+					"slug": "pink-800",
+					"name": "Pink 800",
+					"color": "#9d174d"
+				},
+				{
+					"slug": "pink-900",
+					"name": "Pink 900",
+					"color": "#831843"
+				},
+				{
+					"slug": "red-100",
+					"name": "Red 100",
+					"color": "#FFEBEE"
+				},
+				{
+					"slug": "red-200",
+					"name": "Red 200",
+					"color": "#ffa5b4"
+				},
+				{
+					"slug": "red-300",
+					"name": "Red 300",
+					"color": "#FF7088"
+				},
+				{
+					"slug": "red-400",
+					"name": "Red 400",
+					"color": "#FF4564"
+				},
+				{
+					"slug": "red-500",
+					"name": "Red 500",
+					"color": "#FF1F44"
+				},
+				{
+					"slug": "red-600",
+					"name": "Red 600",
+					"color": "#cc1936"
+				},
+				{
+					"slug": "red-700",
+					"name": "Red 700",
+					"color": "#991329"
+				},
+				{
+					"slug": "red-800",
+					"name": "Red 800",
+					"color": "#660c1b"
+				},
+				{
+					"slug": "red-900",
+					"name": "Red 900",
+					"color": "#33060e"
+				},
+				{
+					"slug": "orange-100",
+					"name": "Orange 100",
+					"color": "#f7dad2"
+				},
+				{
+					"slug": "orange-200",
+					"name": "Orange 200",
+					"color": "#f0b6a4"
+				},
+				{
+					"slug": "orange-300",
+					"name": "Orange 300",
+					"color": "#EA7E5D"
+				},
+				{
+					"slug": "orange-400",
+					"name": "Orange 400",
+					"color": "#E4572E"
+				},
+				{
+					"slug": "orange-500",
+					"name": "Orange 500",
+					"color": "#D9481C"
+				},
+				{
+					"slug": "orange-600",
+					"name": "Orange 600",
+					"color": "#ae3a16"
+				},
+				{
+					"slug": "orange-700",
+					"name": "Orange 700",
+					"color": "#822b11"
+				},
+				{
+					"slug": "orange-800",
+					"name": "Orange 800",
+					"color": "#571d0b"
+				},
+				{
+					"slug": "orange-900",
+					"name": "Orange 900",
+					"color": "#2b0e06"
+				},
+				{
+					"slug": "yellow-100",
+					"name": "Yellow 100",
+					"color": "#faf6d7"
+				},
+				{
+					"slug": "yellow-200",
+					"name": "Yellow 200",
+					"color": "#f5edaf"
+				},
+				{
+					"slug": "yellow-300",
+					"name": "Yellow 300",
+					"color": "#EFE281"
+				},
+				{
+					"slug": "yellow-400",
+					"name": "Yellow 400",
+					"color": "#E9D758"
+				},
+				{
+					"slug": "yellow-500",
+					"name": "Yellow 500",
+					"color": "#E5D138"
+				},
+				{
+					"slug": "yellow-600",
+					"name": "Yellow 600",
+					"color": "#b7a72d"
+				},
+				{
+					"slug": "yellow-700",
+					"name": "Yellow 700",
+					"color": "#897d22"
+				},
+				{
+					"slug": "yellow-800",
+					"name": "Yellow 800",
+					"color": "#5c5416"
+				},
+				{
+					"slug": "yellow-900",
+					"name": "Yellow 900",
+					"color": "#2e2a0b"
+				},
+				{
+					"slug": "teal-100",
+					"name": "Teal 100",
+					"color": "#d2dede"
+				},
+				{
+					"slug": "teal-200",
+					"name": "Teal 200",
+					"color": "#a6bdbd"
+				},
+				{
+					"slug": "teal-300",
+					"name": "Teal 300",
+					"color": "#369696"
+				},
+				{
+					"slug": "teal-400",
+					"name": "Teal 400",
+					"color": "#297373"
+				},
+				{
+					"slug": "teal-500",
+					"name": "Teal 500",
+					"color": "#205A5A"
+				},
+				{
+					"slug": "teal-600",
+					"name": "Teal 600",
+					"color": "#1a4848"
+				},
+				{
+					"slug": "teal-700",
+					"name": "Teal 700",
+					"color": "#133636"
+				},
+				{
+					"slug": "teal-800",
+					"name": "Teal 800",
+					"color": "#0d2424"
+				},
+				{
+					"slug": "teal-900",
+					"name": "Teal 900",
+					"color": "#061212"
+				}
+			]
+		},
+		"blocks": {
+			"core/group": {
+				"spacing": {
+					"margin": true,
+					"padding": true
+				}
+			}
 		}
 	},
 	"styles": {
 		"typography": {
 			"fontFamily": "Open Sans"
+		},
+		"color": {
+			"text": "var(--wp--preset--color--grey-500)"
+		},
+		"border": {
+			"width": "1px",
+			"color": "var(--wp--preset--color--grey-200)",
+			"radius": "5px"
+		},
+		"blocks": {
+			"core/navigation-link": {
+				"color": {
+					"text": "var(--wp--preset--color--grey-900)"
+				},
+				"typography": {
+					"fontSize": "0.875rem",
+					"fontWeight": "500"
+				},
+				"spacing": {
+					"margin": {
+						"left": "1rem",
+						"right": "1rem"
+					}
+				},
+				"border": {
+					"radius": "6px"
+				},
+				"css": ":last-of-type { padding: 0.5rem 1rem; background: var(--wp--preset--color--red-100); color: var(--wp--preset--color--red); }"
+			},
+			"core/image": {
+				"elements": {
+					"caption": {
+						"typography": {
+							"fontSize": "var(--wp--preset--font-size--xs)",
+							"fontStyle": "italic"
+						}
+					},
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--teal)"
+						}
+					}
+				}
+			},
+			"core/separator": {
+				"border": {
+					"color": "var(--wp--preset--color--grey-100)"
+				}
+			},
+			"core/button": {
+				"spacing": {
+					"padding": {
+						"top": "1rem",
+						"bottom": "1rem",
+						"left": "3rem",
+						"right": "3rem"
+					}
+				},
+				"border": {
+					"radius": "6px"
+				},
+				"color": {
+					"background": "var(--wp--preset--color--red)",
+					"text": "var(--wp--preset--color--white)"
+				},
+				"variations": {
+					"outline": {
+						"spacing": {
+							"padding": {
+								"top": "1rem",
+								"bottom": "1rem",
+								"left": "3rem",
+								"right": "3rem"
+							}
+						}
+					}
+				}
+			},
+			"core/social-link": {
+				"elements": {
+					"link": {
+						"color": {
+							"background": "var(--wp--preset--color--red-100)",
+							"text": "var(--wp--preset--color--red) !important"
+						},
+						"border": {
+							"radius": "100%"
+						}
+					}
+				}
+			}
+		},
+		"elements": {
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--grey-900)"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontSize": "4rem"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontSize": "3rem"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "2.25rem"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "1.5rem"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "1.25rem"
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontSize": "1.125rem"
+				}
+			}
 		}
 	}
 }
