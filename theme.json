@@ -9,6 +9,10 @@
 			"contentSize": "750px",
 			"wideSize": "1200px"
 		},
+		"spacing": {
+			"padding": true,
+			"margin": true
+		},
 		"typography": {
 			"fontSizes": [
 				{
