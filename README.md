@@ -34,6 +34,13 @@
  
 Το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=o0pMo39V3Qo). Περισσότερες πληροφορίες και σχετικό υλικό θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
 
+**[33ο Thessaloniki WordPress Online Meetup - 13 Μαΐου 2023](https://www.meetup.com/wordpress_skg/events/293294476)**
+- Ρυθμίσεις & styling blocks με χρήση του `theme.json`.
+- Παρουσίαση του theme prototype.
+- Δημιουργία κεφαλίδας & υποσέλιδου.
+ 
+Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/ruthmiseis-and-styling-mlok-me-xrisi-tou-theme-dot-json) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=o0pMo39V3Qo). Περισσότερες πληροφορίες και σχετικό υλικό θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
+
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
 Πρόκειται για ένα theme γενικού σκοπού, χωρίς κάποια στόχευση σε συγκεκριμένο τύπο χρηστών ή συγκεκριμένες λειτουργίες. Θα δημιουργηθεί με στόχο την εξερεύνηση και την πρακτική εξάσκηση με τα εργαλεία, τις τεχνολογίες και τις πρακτικές που χρειάζονται για την δημιουργία ενός custom block-based theme. Επίσης, αφού ολοκληρωθεί αυτό το theme, θα δημοσιευθεί στο theme directory του WordPress.
@@ -88,11 +95,18 @@ A recap is available in [this video](https://www.youtube.com/watch?v=30IpkTfhs6o
 
 The presentation is available [here](https://speakerdeck.com/wpgr/git-basikes-ennoies-kai-leitourgies) and the video is available [here](https://www.youtube.com/watch?v=9-6pUXtTMVY). More information about Git and the `theme.json` file can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
 
-**[30th Thessaloniki WordPress Online Meetup - 4 Febrouary 2023](https://www.meetup.com/wordpress_skg/events/291176080/)**
+**[30th Thessaloniki WordPress Online Meetup - 4 February 2023](https://www.meetup.com/wordpress_skg/events/291176080/)**
 - Add and use fonts in the block editor using `theme.json`.
 - Create and use block & post patterns.
 
 The video is available [here](https://www.youtube.com/watch?v=o0pMo39V3Qo). More information and relevant resources can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
+
+**[33rd Thessaloniki WordPress Online Meetup - 13 May 2023](https://www.meetup.com/wordpress_skg/events/293294476)**
+- Block settings & styling using `theme.json`.
+- Theme prototype presentation.
+- Create header & footer.
+
+The presentation is available [here](https://speakerdeck.com/wpgr/ruthmiseis-and-styling-mlok-me-xrisi-tou-theme-dot-json) and the session recording is available [here](https://www.youtube.com/watch?v=o0pMo39V3Qo). More information and relevant resources can be found in the [docs directory](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
 
 ## Frequently Asked Questions (FAQ)
 ### What will be the purpose of this theme?
