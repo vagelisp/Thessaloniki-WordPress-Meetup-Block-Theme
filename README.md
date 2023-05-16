@@ -39,7 +39,7 @@
 - Παρουσίαση του theme prototype.
 - Δημιουργία κεφαλίδας & υποσέλιδου.
  
-Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/ruthmiseis-and-styling-mlok-me-xrisi-tou-theme-dot-json) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=o0pMo39V3Qo). Περισσότερες πληροφορίες και σχετικό υλικό θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
+Η παρουσίαση είναι διαθέσιμη [εδώ](https://speakerdeck.com/wpgr/ruthmiseis-and-styling-mlok-me-xrisi-tou-theme-dot-json) και το video θα το βρείτε [εδώ](https://www.youtube.com/watch?v=etmztOoqRz4). Περισσότερες πληροφορίες και σχετικό υλικό θα βρείτε στον [φάκελο docs](https://github.com/vagelisp/Thessaloniki-WordPress-Meetup-Block-Theme/tree/main/docs/).
 
 ## Συχνές ερωτήσεις
 ### Ποιος θα είναι ο σκοπός αυτού του theme;
