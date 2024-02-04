@@ -1,0 +1,13 @@
+header {
+    position: relative;
+    z-index: 10;
+}
+
+.page-template-about-us .entry-content .wp-block-cover {
+    margin-top: -150px;
+    padding-top: 200px;
+}
+
+.transform-top-50 {
+    transform: translateY(-50%);
+}
